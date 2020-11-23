@@ -1,0 +1,5 @@
+For n = 5, Pn = 5
+For n = 6, Pn = 7
+For n = 7, Pn = 8
+For n = 8, Pn = 9
+For n = 9, Pn = 10
