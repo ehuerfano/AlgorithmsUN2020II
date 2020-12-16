@@ -1,0 +1,11 @@
+Completé el 28% del curso, como se ve en Grades
+
+Aprendí y pratiqúe con varios problemas 
+que incluían Fibonacci. Algo en particular 
+que aprendí es que el último digito de los 
+números de la secuencia de Fibonacci es 
+periódico. Esto es, cada 60 números de 
+Fibonacci se empieza a repetir el último 
+digito. Eso ya está en internet pero yo no 
+lo sabía y me di cuenta optimizando una 
+solución que no pasaba por tiempo.
